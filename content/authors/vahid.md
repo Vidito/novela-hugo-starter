@@ -6,6 +6,5 @@ social:
 - title: Youtube
   url: https://www.youtube.com/c/pythonology
 featured: true
-draft: true
 
 ---
