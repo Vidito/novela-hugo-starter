@@ -17,3 +17,22 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+# /content/authors/firstname-lastname/_index.md
+---
+title: Vahid Niamadpour
+bio: |
+  Pythonology | Where all Python related topics are covered and talked about...
+avatar: static/images/pro.jpg
+featured: true
+social:
+  - title: github
+    url: https://github.com/vidito
+  - title: twitter
+    url: https://twitter.com
+  - title: instagram
+    url: https://instagram.com/vahid.team8
+  - title: dribbble
+    url: https://dribbble.com
+  - title: unsplash
+    url: https://unsplash.com
+---
